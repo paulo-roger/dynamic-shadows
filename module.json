@@ -1,0 +1,66 @@
+{
+  "name": "dynamic-shadows",
+  "id": "dynamic-shadows",
+  "title": "Dynamic Shadows",
+  "description": "Shadows that respond to lights.",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "authors": [
+    {
+      "name": "winterwulf",
+      "url": "https://github.com/paulo-roger/",
+      "discord": "winterwulf#3118",
+      "ko-fi": "winterwulf",
+      "twitter": "@odragaoverde"
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": [
+      {
+        "id": "tokenmagic",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/dynamic-shadows.js"
+  ],
+  "scripts": [
+    "scripts/lib/lib.js"
+  ],
+  "styles": [
+    "styles/dynamic-shadows.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "license": "https://github.com/paulo-roger/dynamic-shadows/blob/master/LICENSE",
+  "readme": "https://github.com/paulo-roger/dynamic-shadows/blob/master/README.md",
+  "bugs": "https://github.com/paulo-roger/dynamic-shadows/issues",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://raw.githubusercontent.com/paulo-roger/dynamic-shadows/master/readme/icon.png"
+    },
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/paulo-roger/dynamic-shadows/master/readme/cover.png"
+    }
+  ]
+}
