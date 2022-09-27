@@ -1,4 +1,4 @@
 # Changelog
 
-## [1.0.0]
-- Intial release
+## [0.1.0]
+- Pre-release
